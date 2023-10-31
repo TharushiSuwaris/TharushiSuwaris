@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TharushiSuwaris
 - 👀 I’m interested in Machine Learning, Deep Learning, AI
-- 🌱 I’m currently an udergraduate of department of Computer Engineering in University of Peradeniya.
+- 🌱 I’m a graduate of department of Computer Engineering in University of Peradeniya.
 - 📫 How to reach me - email to e16364@eng.pdn.ac.lk
 
 <!---
